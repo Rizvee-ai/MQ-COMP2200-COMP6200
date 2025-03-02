@@ -1,0 +1,16 @@
+Rule1: If mean
+radius is greater than 5, classify as malignant.
+
+accuracy:  0.600
+
+
+Rule2:  “If mean
+radius is greater than 3 and texture score is below 4, classify as benign"
+
+accuracy: 0.600
+
+
+
+Rule 3: if mean area and mean parameter is less than 100 , classify as milignant
+accuracy:0.400
+
